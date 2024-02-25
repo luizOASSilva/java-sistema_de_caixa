@@ -4,7 +4,7 @@ Software que simula uma máquina de Cassino, apenas para diversão.
 
 ## • Funcionalidades
 
-**Simula um Sistema de caixa:** Insira um código ou se preferir use um leitor de código de barras para ler um produto físico. E então vá as compras.
+**Simula um Sistema de caixa:** Insira um código ou se preferir use um leitor de código de barras para ler um produto físico. Faça as compras.
 
 ## • Instalação e Uso
 
