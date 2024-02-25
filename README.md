@@ -1,6 +1,6 @@
 # java-Sistema_de_caixa
 
-Software que simula uma máquina de Cassino, apenas para diversão.
+Software que simula uma sistema de caixa de mercado.
 
 ## • Funcionalidades
 
